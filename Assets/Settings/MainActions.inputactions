@@ -1,0 +1,55 @@
+{
+    "name": "MainActions",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "33aefea5-1f63-48fc-8bfe-d5453abbb3f8",
+            "actions": [
+                {
+                    "name": "Click",
+                    "type": "Button",
+                    "id": "2f0b5fd3-8c42-441a-b58a-f6f172ce8abc",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "84df9a5d-d3bc-4087-9bcb-b2326e6b5665",
+                    "path": "<Touchscreen>/press",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Click",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "ad287597-94a2-4dc7-9ed6-f3c84eaf33fd",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Click",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "42a1804b-7786-47a1-ae4d-12d19919b83f",
+                    "path": "<Touchscreen>/primaryTouch/press",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Click",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
